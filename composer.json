@@ -2,7 +2,6 @@
     "name": "fabriciomd/aula-compose",
     "description": "Aula de Composer com Vitor Matos",
     "keywords": ["composer", "php", "docker"],
-    "license": "GPL-3.0=or-later",
     "authors": [
         {
             "name": "Fabricio M. Damasceno"
